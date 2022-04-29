@@ -47,7 +47,7 @@
 		cursor: pointer;
 	}
 	.nav__list {
-		z-index1: 1000;
+		z-index: 1000;
 		position: absolute;
 		left: 100%;
 		top: 0;
@@ -77,7 +77,7 @@
 		position: absolute;
 		left: 0;
 		top: 0;
-		z-index1: 1000;
+		z-index: 1000;
 		height: 100vh;
 		width: 100%;
 		background: rgba(18, 24, 14, 0.808);
